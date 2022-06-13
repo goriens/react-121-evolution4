@@ -1,0 +1,38 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "title": "title"
+    },
+    {
+      "title": "csd",
+      "status": false,
+      "id": 2
+    }
+  ],
+  "employee": [
+    {
+      "title": "",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "cdscd",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "csdcds",
+      "status": false,
+      "id": 3
+    },
+    {
+      "name": "SUHAIB",
+      "company": "Masai",
+      "email": "sohaibgour@gmail.com",
+      "phone": "8934390894",
+      "salary": "100k",
+      "id": 4
+    }
+  ]
+}

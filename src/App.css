@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+td{
+  padding:10px;
+  border: 1px solid black;
+  font-size: 13px;
+}
+th{
+  font-size: 13px;
+}
+.main-show{
+  border: 1px solid black;
+  width:600px;
+  margin: auto;
+}
+table{
+  margin: auto;
+}
+th, td{
+  font-size: 17px;
+}
